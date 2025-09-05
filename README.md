@@ -14,7 +14,9 @@ The data is visually presented using the Adafruit GFX and ILI9341 libraries for 
 
 **For Polish users**
 
+
 Schemat blokowy urządzenia:
+
 ![Schemat blokowy urządzenia](img/pic2.jpg)
 
 Schemat blokowy algorytmu działania:
